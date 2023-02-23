@@ -1,0 +1,4 @@
+adding iles into the entrypoint for docker
+    the file has to be nested in a folder for it to be picked up and read. 
+    Formatting is important in the file, it can be read and not be created because of errors
+    check the log of the database to see whats in thee 
